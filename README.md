@@ -9,6 +9,8 @@
 ## 微信公众平台
 
 - 小程序
+> [kaeyleo/kingdex: 📱 微信小程序 - 王者图鉴](https://github.com/kaeyleo/kingdex)
+
 - 公众号
 
 
